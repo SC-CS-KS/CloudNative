@@ -1,2 +1,27 @@
-# CloudNative
-Knowledge system for Cloud Native（云原生）.
+Cloud Native  
+===============
+Knowledge system for Cloud Native（云原生）.  
+
+## [WhatIs](WhatIs.md)
+
+## 云原生平台  
+
+* 敏捷开发  
+
+一种小规模团队的、全栈式的开发方法，要求团队具备快速响应变化，快速迭代开发的能力。  
+最佳实践 : scrum、xp   
+
+* DevOps  
+
+开发和运维之间保持流程连续的协作方法，目标是快速、频繁且更可靠地构建、测试和发布软件。  
+
+* 容器编排   
+
+一种容器资源的管理方法，目标是管理容器集群和调度容器化应用。  
+
+## 云原生应用  
+
+* 微服务  
+
+* 容器化   
+
